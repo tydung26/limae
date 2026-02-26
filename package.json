@@ -1,0 +1,19 @@
+{
+  "name": "limae",
+  "version": "1.0.0",
+  "description": "AI-powered ebook grammar fixer",
+  "type": "commonjs",
+  "scripts": {
+    "fix-grammar": "tsx src/fix-grammar.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "cheerio": "^1.0.0",
+    "jszip": "^3.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

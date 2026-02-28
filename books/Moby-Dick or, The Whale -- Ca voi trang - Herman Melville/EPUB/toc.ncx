@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:f845c267-e9d2-4eca-893d-ebec76577655"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.24.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Table of Contents</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>CHƯƠNG I ẢO VỌNG</text>
+      </navLabel>
+      <content src="text/ch001_split4.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>CHƯƠNG II KHĂN GÓI</text>
+      </navLabel>
+      <content src="text/ch001_split5.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>CHƯƠNG III QUÁN CÁ VOI PHUN NƯỚC</text>
+      </navLabel>
+      <content src="text/ch001_split6.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>CHƯƠNG IV TẤM KHĂN TRẢI GIƯỜNG</text>
+      </navLabel>
+      <content src="text/ch001_split7.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>CHƯƠNG V BỮA ĐIỂM TÂM</text>
+      </navLabel>
+      <content src="text/ch001_split8.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>CHƯƠNG VI NGOÀI PHỐ</text>
+      </navLabel>
+      <content src="text/ch001_split9.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>CHƯƠNG VII NHÀ NGUYỆN</text>
+      </navLabel>
+      <content src="text/ch001_split10.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>CHƯƠNG VIII GIẢNG ĐÀI</text>
+      </navLabel>
+      <content src="text/ch001_split11.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>CHƯƠNG IX BÀI GIẢNG</text>
+      </navLabel>
+      <content src="text/ch001_split12.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>CHƯƠNG X MỘT NGƯỜI BẠN THIẾT</text>
+      </navLabel>
+      <content src="text/ch001_split13.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>CHƯƠNG XI ÁO NGỦ</text>
+      </navLabel>
+      <content src="text/ch001_split14.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>CHƯƠNG XII TIỂU SỬ</text>
+      </navLabel>
+      <content src="text/ch001_split15.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>CHƯƠNG XIII CHIẾC XE CÚT KÍT</text>
+      </navLabel>
+      <content src="text/ch001_split16.xhtml"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>CHƯƠNG XIV NANTUKET</text>
+      </navLabel>
+      <content src="text/ch001_split17.xhtml"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>CHƯƠNG XV MÓN XÚP CÁ ĐẶC</text>
+      </navLabel>
+      <content src="text/ch001_split18.xhtml"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>CHƯƠNG XVI CON TÀU</text>
+      </navLabel>
+      <content src="text/ch001_split19.xhtml"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>CHƯƠNG XVII LỄ RAMADAN</text>
+      </navLabel>
+      <content src="text/ch001_split20.xhtml"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>CHƯƠNG XVIII CHỮ KÝ CỦA QUEEQUEG</text>
+      </navLabel>
+      <content src="text/ch001_split21.xhtml"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>CHƯƠNG XIX NHÀ TIÊN TRI</text>
+      </navLabel>
+      <content src="text/ch001_split22.xhtml"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>CHƯƠNG XX XÔN XAO HẾT THẢY</text>
+      </navLabel>
+      <content src="text/ch001_split23.xhtml"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>CHƯƠNG XXI LÊN TÀU</text>
+      </navLabel>
+      <content src="text/ch001_split24.xhtml"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>CHƯƠNG XXII GIÁNG SINH VUI VẺ</text>
+      </navLabel>
+      <content src="text/ch001_split25.xhtml"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>CHƯƠNG XXIII BỜ BỂ KHUẤT GIÓ</text>
+      </navLabel>
+      <content src="text/ch001_split26.xhtml"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>CHƯƠNG XXIV NGƯỜI BIỆN HỘ</text>
+      </navLabel>
+      <content src="text/ch001_split27.xhtml"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>CHƯƠNG XXV TÁI BÚT</text>
+      </navLabel>
+      <content src="text/ch001_split28.xhtml"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>CHƯƠNG XXVI HIỆP SĨ VÀ CẬN VỆ</text>
+      </navLabel>
+      <content src="text/ch001_split29.xhtml"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>CHƯƠNG XXVII HIỆP SĨ VÀ CẬN VỆ</text>
+      </navLabel>
+      <content src="text/ch001_split30.xhtml"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>CHƯƠNG XXVIII AHAB</text>
+      </navLabel>
+      <content src="text/ch001_split31.xhtml"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>CHƯƠNG XXIX ÔNG AHAB RA SÂN KHẤU; STUBB NÓI VỚI ÔNG TA</text>
+      </navLabel>
+      <content src="text/ch001_split32.xhtml"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>CHƯƠNG XXX TẨU THUỐC</text>
+      </navLabel>
+      <content src="text/ch001_split33.xhtml"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>CHƯƠNG XXXI HOÀNG HẬU MAB</text>
+      </navLabel>
+      <content src="text/ch001_split34.xhtml"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>CHƯƠNG XXXII CÁ VOI HỌC</text>
+      </navLabel>
+      <content src="text/ch001_split35.xhtml"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>CHƯƠNG XXXIII NGƯỜI XẺO MỠ</text>
+      </navLabel>
+      <content src="text/ch001_split36.xhtml"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>CHƯƠNG XXXIV CÁI BÀN TRONG CABIN</text>
+      </navLabel>
+      <content src="text/ch001_split37.xhtml"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>CHƯƠNG XXXV CỘT BUỒM CHÍNH</text>
+      </navLabel>
+      <content src="text/ch001_split38.xhtml"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>CHƯƠNG XXXVI BOONG LÁI</text>
+      </navLabel>
+      <content src="text/ch001_split39.xhtml"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>CHƯƠNG XXXVII Mặt trời lặn</text>
+      </navLabel>
+      <content src="text/ch001_split40.xhtml"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>CHƯƠNG XXXVIII HOÀNG HÔN</text>
+      </navLabel>
+      <content src="text/ch001_split41.xhtml"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>CHƯƠNG XXXIX PHIÊN CANH ĐÊM ĐẦU TIÊN</text>
+      </navLabel>
+      <content src="text/ch001_split42.xhtml"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>CHƯƠNG XL NỬA ĐÊM, BOONG MŨI</text>
+      </navLabel>
+      <content src="text/ch001_split43.xhtml"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>CHƯƠNG XLI MOBY DICK</text>
+      </navLabel>
+      <content src="text/ch001_split44.xhtml"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>CHƯƠNG XLII MÀU TRẮNG CỦA CON CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split45.xhtml"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>CHƯƠNG XLIII HÃY LẮNG NGHE!</text>
+      </navLabel>
+      <content src="text/ch001_split46.xhtml"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>CHƯƠNG XLIV HẢI ĐỒ</text>
+      </navLabel>
+      <content src="text/ch001_split47.xhtml"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>CHƯƠNG XLV TỜ CHỨNG THƯ</text>
+      </navLabel>
+      <content src="text/ch001_split48.xhtml"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>CHƯƠNG XLVI ỨC ĐOÁN</text>
+      </navLabel>
+      <content src="text/ch001_split49.xhtml"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>CHƯƠNG XLVII NGƯỜI ĐAN NỆM</text>
+      </navLabel>
+      <content src="text/ch001_split50.xhtml"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>CHƯƠNG XLVIII HẠ THUYỀN LẦN ĐẦU TIÊN</text>
+      </navLabel>
+      <content src="text/ch001_split51.xhtml"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>CHƯƠNG XLIX CON LINH CẨU</text>
+      </navLabel>
+      <content src="text/ch001_split52.xhtml"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>CHƯƠNG L THUYỀN ÔNG AHAB VÀ ĐOÀN THỦY THỦ CỦA FEDALLAH</text>
+      </navLabel>
+      <content src="text/ch001_split53.xhtml"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>CHƯƠNG LI VÒI PHUN THẦN LINH</text>
+      </navLabel>
+      <content src="text/ch001_split54.xhtml"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>CHƯƠNG LII TÀU HẢI ÂU</text>
+      </navLabel>
+      <content src="text/ch001_split55.xhtml"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>CHƯƠNG LIII MỘT “GAM”</text>
+      </navLabel>
+      <content src="text/ch001_split56.xhtml"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>CHƯƠNG LIV CÂU CHUYỆN VỀ TÀU TOWN HO</text>
+      </navLabel>
+      <content src="text/ch001_split57.xhtml"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>CHƯƠNG LV VỀ NHỮNG HÌNH ẢNH CÁ VOI GỚM GUỐC</text>
+      </navLabel>
+      <content src="text/ch001_split58.xhtml"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>CHƯƠNG LVI VỀ NHỮNG TRANH VẼ CÁ VOI ÍT SAI LẠC VÀ NHỮNG TRANH TẢ THỰC CÁC CẢNH SĂN CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split59.xhtml"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>CHƯƠNG LVII VỀ NHỮNG CON CÁ VOI TRONG TRANH; VỀ RĂNG; VỀ GỖ; VỀ MIẾNG SẮT LÁ; VỀ ĐÁ; VỀ NÚI; VỀ SAO</text>
+      </navLabel>
+      <content src="text/ch001_split60.xhtml"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>CHƯƠNG LVIII SINH VẬT PHÙ DU</text>
+      </navLabel>
+      <content src="text/ch001_split61.xhtml"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>CHƯƠNG LIX CON MỰC</text>
+      </navLabel>
+      <content src="text/ch001_split62.xhtml"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>CHƯƠNG LX DÂY CÂU</text>
+      </navLabel>
+      <content src="text/ch001_split63.xhtml"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>CHƯƠNG LXI STUBB GIẾT CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split64.xhtml"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>CHƯƠNG LXII NGỌN LAO</text>
+      </navLabel>
+      <content src="text/ch001_split65.xhtml"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>CHƯƠNG LXIII CÁI CHẠC</text>
+      </navLabel>
+      <content src="text/ch001_split66.xhtml"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>CHƯƠNG LXIV BỮA TỐI CỦA STUBB</text>
+      </navLabel>
+      <content src="text/ch001_split67.xhtml"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>CHƯƠNG LXV MÓN THỊT CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split68.xhtml"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>CHƯƠNG LXVI TÀN SÁT CÁ MẬP</text>
+      </navLabel>
+      <content src="text/ch001_split69.xhtml"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>CHƯƠNG LXVII XẢ THỊT</text>
+      </navLabel>
+      <content src="text/ch001_split70.xhtml"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>CHƯƠNG LXVIII TẤM CHĂN</text>
+      </navLabel>
+      <content src="text/ch001_split71.xhtml"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>CHƯƠNG LXIX LỄ AN TÁNG</text>
+      </navLabel>
+      <content src="text/ch001_split72.xhtml"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>CHƯƠNG LXX CON NHÂN SƯ</text>
+      </navLabel>
+      <content src="text/ch001_split73.xhtml"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>CHƯƠNG LXXI CÂU CHUYỆN VỀ JEROBOAM</text>
+      </navLabel>
+      <content src="text/ch001_split74.xhtml"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>CHƯƠNG LXXII DÂY THỪNG BUỘC KHỈ</text>
+      </navLabel>
+      <content src="text/ch001_split75.xhtml"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>CHƯƠNG LXXIII STUBB VÀ FLASK GIẾT MỘT CON CÁ VOI CHÍNH CỐNG RỒI TRÒ CHUYỆN VỀ CON CÁ ĐÓ</text>
+      </navLabel>
+      <content src="text/ch001_split76.xhtml"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>CHƯƠNG LXXIV ĐẦU CÁ NHÀ TÁNG - GÓC NHÌN TƯƠNG PHẢN</text>
+      </navLabel>
+      <content src="text/ch001_split77.xhtml"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>CHƯƠNG LXXV ĐẦU CÁ VOI CHÍNH CỐNG - GÓC NHÌN TƯƠNG PHẢN</text>
+      </navLabel>
+      <content src="text/ch001_split78.xhtml"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>CHƯƠNG LXXVI PHIẾN GỖ PHÁ THÀNH</text>
+      </navLabel>
+      <content src="text/ch001_split79.xhtml"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>CHƯƠNG LXXVII THÙNG HEIDELBURGH KHỔNG LỔ</text>
+      </navLabel>
+      <content src="text/ch001_split80.xhtml"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>CHƯƠNG LXXVIII VẠI CHỨA VÀ GÀU MÚC</text>
+      </navLabel>
+      <content src="text/ch001_split81.xhtml"/>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>CHƯƠNG LXXIX ĐỒNG CỎ</text>
+      </navLabel>
+      <content src="text/ch001_split82.xhtml"/>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>CHƯƠNG LXXX VẤN ĐỀ HÓC BÚA</text>
+      </navLabel>
+      <content src="text/ch001_split83.xhtml"/>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>CHƯƠNG LXXXI TÀU PEQUOD GẶP TÀU TRINH NỮ</text>
+      </navLabel>
+      <content src="text/ch001_split84.xhtml"/>
+    </navPoint>
+    <navPoint id="num_82" playOrder="82">
+      <navLabel>
+        <text>CHƯƠNG LXXXII DANH DỰ VÀ VINH QUANG CỦA NGHỀ SĂN CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split85.xhtml"/>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>CHƯƠNG LXXXIII JONAH NHÌN TỪ PHƯƠNG DIỆN LỊCH SỬ</text>
+      </navLabel>
+      <content src="text/ch001_split86.xhtml"/>
+    </navPoint>
+    <navPoint id="num_84" playOrder="84">
+      <navLabel>
+        <text>CHƯƠNG LXXXIV CỌC ĐÂM CÁ</text>
+      </navLabel>
+      <content src="text/ch001_split87.xhtml"/>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>CHƯƠNG LXXXV ĐÀI NƯỚC</text>
+      </navLabel>
+      <content src="text/ch001_split88.xhtml"/>
+    </navPoint>
+    <navPoint id="num_86" playOrder="86">
+      <navLabel>
+        <text>CHƯƠNG LXXXVI CÁI ĐUÔI</text>
+      </navLabel>
+      <content src="text/ch001_split89.xhtml"/>
+    </navPoint>
+    <navPoint id="num_87" playOrder="87">
+      <navLabel>
+        <text>CHƯƠNG LXXXVII TÀU ARMADA VĨ ĐẠI</text>
+      </navLabel>
+      <content src="text/ch001_split90.xhtml"/>
+    </navPoint>
+    <navPoint id="num_88" playOrder="88">
+      <navLabel>
+        <text>CHƯƠNG LXXXVIII TRƯỜNG VÀ THẦY GIÁO</text>
+      </navLabel>
+      <content src="text/ch001_split91.xhtml"/>
+    </navPoint>
+    <navPoint id="num_89" playOrder="89">
+      <navLabel>
+        <text>CHƯƠNG LXXXIX CON CÁ BỊ CỘT LẠI VÀ CON CÁ TUỘT DÂY</text>
+      </navLabel>
+      <content src="text/ch001_split92.xhtml"/>
+    </navPoint>
+    <navPoint id="num_90" playOrder="90">
+      <navLabel>
+        <text>CHƯƠNG XC ĐẦU VÀ ĐUÔI</text>
+      </navLabel>
+      <content src="text/ch001_split93.xhtml"/>
+    </navPoint>
+    <navPoint id="num_91" playOrder="91">
+      <navLabel>
+        <text>CHƯƠNG XCI TÀU PEQUOD GẶP TÀU NỤ HỒNG</text>
+      </navLabel>
+      <content src="text/ch001_split94.xhtml"/>
+    </navPoint>
+    <navPoint id="num_92" playOrder="92">
+      <navLabel>
+        <text>CHƯƠNG XCII LONG DIÊN HƯƠNG</text>
+      </navLabel>
+      <content src="text/ch001_split95.xhtml"/>
+    </navPoint>
+    <navPoint id="num_93" playOrder="93">
+      <navLabel>
+        <text>CHƯƠNG XCIII KẺ BỊ RUỒNG BỎ</text>
+      </navLabel>
+      <content src="text/ch001_split96.xhtml"/>
+    </navPoint>
+    <navPoint id="num_94" playOrder="94">
+      <navLabel>
+        <text>CHƯƠNG XCIV BÀN TAY BÓP CHẶT</text>
+      </navLabel>
+      <content src="text/ch001_split97.xhtml"/>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>CHƯƠNG XCV CHIẾC ÁO THỤNG</text>
+      </navLabel>
+      <content src="text/ch001_split98.xhtml"/>
+    </navPoint>
+    <navPoint id="num_96" playOrder="96">
+      <navLabel>
+        <text>CHƯƠNG XCVI LÒ NẤU MỠ</text>
+      </navLabel>
+      <content src="text/ch001_split99.xhtml"/>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>CHƯƠNG XCVII CÂY ĐÈN</text>
+      </navLabel>
+      <content src="text/ch001_split100.xhtml"/>
+    </navPoint>
+    <navPoint id="num_98" playOrder="98">
+      <navLabel>
+        <text>CHƯƠNG XCVIII XẾP GỌN VÀ DỌN DẸP</text>
+      </navLabel>
+      <content src="text/ch001_split101.xhtml"/>
+    </navPoint>
+    <navPoint id="num_99" playOrder="99">
+      <navLabel>
+        <text>CHƯƠNG XCIX ĐỒNG TIỀN VÀNG</text>
+      </navLabel>
+      <content src="text/ch001_split102.xhtml"/>
+    </navPoint>
+    <navPoint id="num_100" playOrder="100">
+      <navLabel>
+        <text>CHƯƠNG C CẲNG CHÂN VÀ CÁNH TAY. TÀU PEQUOD BẾN NANTUCKET GẶP TÀU ENDERBY BẾN LONDON</text>
+      </navLabel>
+      <content src="text/ch001_split103.xhtml"/>
+    </navPoint>
+    <navPoint id="num_101" playOrder="101">
+      <navLabel>
+        <text>CHƯƠNG CI BÌNH RƯỢU</text>
+      </navLabel>
+      <content src="text/ch001_split104.xhtml"/>
+    </navPoint>
+    <navPoint id="num_102" playOrder="102">
+      <navLabel>
+        <text>CHƯƠNG CII LÙM CÂY TRONG MIỀN ARSACID</text>
+      </navLabel>
+      <content src="text/ch001_split105.xhtml"/>
+    </navPoint>
+    <navPoint id="num_103" playOrder="103">
+      <navLabel>
+        <text>CHƯƠNG CIII KÍCH THƯỚC BỘ XƯƠNG CỦA CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split106.xhtml"/>
+    </navPoint>
+    <navPoint id="num_104" playOrder="104">
+      <navLabel>
+        <text>CHƯƠNG CIV CÁ VOI HÓA THẠCH</text>
+      </navLabel>
+      <content src="text/ch001_split107.xhtml"/>
+    </navPoint>
+    <navPoint id="num_105" playOrder="105">
+      <navLabel>
+        <text>CHƯƠNG CV ĐỘ LỚN CỦA CÁ VOI CÓ SUY GIẢM ĐI KHÔNG? NÓ CÓ DIỆT VONG KHÔNG?</text>
+      </navLabel>
+      <content src="text/ch001_split108.xhtml"/>
+    </navPoint>
+    <navPoint id="num_106" playOrder="106">
+      <navLabel>
+        <text>CHƯƠNG CVI CÁI CHÂN CỦA ÔNG AHAB</text>
+      </navLabel>
+      <content src="text/ch001_split109.xhtml"/>
+    </navPoint>
+    <navPoint id="num_107" playOrder="107">
+      <navLabel>
+        <text>CHƯƠNG CVII NGƯỜI THỢ MỘC</text>
+      </navLabel>
+      <content src="text/ch001_split110.xhtml"/>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>CHƯƠNG CVIII AHAB VÀ NGƯỜI THỢ MỘC</text>
+      </navLabel>
+      <content src="text/ch001_split111.xhtml"/>
+    </navPoint>
+    <navPoint id="num_109" playOrder="109">
+      <navLabel>
+        <text>CHƯƠNG CIX AHAB VÀ STARBUCK TRONG CABIN</text>
+      </navLabel>
+      <content src="text/ch001_split112.xhtml"/>
+    </navPoint>
+    <navPoint id="num_110" playOrder="110">
+      <navLabel>
+        <text>CHƯƠNG CX QUEEQUEG TRONG QUAN TÀI</text>
+      </navLabel>
+      <content src="text/ch001_split113.xhtml"/>
+    </navPoint>
+    <navPoint id="num_111" playOrder="111">
+      <navLabel>
+        <text>CHƯƠNG CXI THÁI BÌNH DƯƠNG</text>
+      </navLabel>
+      <content src="text/ch001_split114.xhtml"/>
+    </navPoint>
+    <navPoint id="num_112" playOrder="112">
+      <navLabel>
+        <text>CHƯƠNG CXII NGƯỜI THỢ RÈN</text>
+      </navLabel>
+      <content src="text/ch001_split115.xhtml"/>
+    </navPoint>
+    <navPoint id="num_113" playOrder="113">
+      <navLabel>
+        <text>CHƯƠNG CXIII LÒ RÈN</text>
+      </navLabel>
+      <content src="text/ch001_split116.xhtml"/>
+    </navPoint>
+    <navPoint id="num_114" playOrder="114">
+      <navLabel>
+        <text>CHƯƠNG CXIV NGƯỜI MẠ VÀNG</text>
+      </navLabel>
+      <content src="text/ch001_split117.xhtml"/>
+    </navPoint>
+    <navPoint id="num_115" playOrder="115">
+      <navLabel>
+        <text>CHƯƠNG CXV TÀU PEQUOD GẶP TÀU CỜ ĐUÔI NHEO</text>
+      </navLabel>
+      <content src="text/ch001_split118.xhtml"/>
+    </navPoint>
+    <navPoint id="num_116" playOrder="116">
+      <navLabel>
+        <text>CHƯƠNG CXVI CON CÁ VOI HẤP HỐI</text>
+      </navLabel>
+      <content src="text/ch001_split119.xhtml"/>
+    </navPoint>
+    <navPoint id="num_117" playOrder="117">
+      <navLabel>
+        <text>CHƯƠNG CXVII CANH CHỪNG CÁ VOI</text>
+      </navLabel>
+      <content src="text/ch001_split120.xhtml"/>
+    </navPoint>
+    <navPoint id="num_118" playOrder="118">
+      <navLabel>
+        <text>CHƯƠNG CXVIII THƯỚC ĐO ĐỘ</text>
+      </navLabel>
+      <content src="text/ch001_split121.xhtml"/>
+    </navPoint>
+    <navPoint id="num_119" playOrder="119">
+      <navLabel>
+        <text>CHƯƠNG CXIX NHỮNG CÂY NẾN</text>
+      </navLabel>
+      <content src="text/ch001_split122.xhtml"/>
+    </navPoint>
+    <navPoint id="num_120" playOrder="120">
+      <navLabel>
+        <text>CHƯƠNG CXX BOONG TÀU VỀ CUỐI ĐÊM CANH</text>
+      </navLabel>
+      <content src="text/ch001_split123.xhtml"/>
+    </navPoint>
+    <navPoint id="num_121" playOrder="121">
+      <navLabel>
+        <text>CHƯƠNG CXXI NỬA ĐÊM - THÀNH TÀU BOONG MŨI</text>
+      </navLabel>
+      <content src="text/ch001_split124.xhtml"/>
+    </navPoint>
+    <navPoint id="num_122" playOrder="122">
+      <navLabel>
+        <text>CHƯƠNG CXXII TRÊN CAO LÚC NỬA ĐÊM - SẤM CHỚP</text>
+      </navLabel>
+      <content src="text/ch001_split125.xhtml"/>
+    </navPoint>
+    <navPoint id="num_123" playOrder="123">
+      <navLabel>
+        <text>CHƯƠNG CXXIII KHẨU SÚNG HỎA MAI</text>
+      </navLabel>
+      <content src="text/ch001_split126.xhtml"/>
+    </navPoint>
+    <navPoint id="num_124" playOrder="124">
+      <navLabel>
+        <text>CHƯƠNG CXXIV CÂY KIM</text>
+      </navLabel>
+      <content src="text/ch001_split127.xhtml"/>
+    </navPoint>
+    <navPoint id="num_125" playOrder="125">
+      <navLabel>
+        <text>CHƯƠNG CXXV KHÚC GỖ VÀ DÂY DỌI</text>
+      </navLabel>
+      <content src="text/ch001_split128.xhtml"/>
+    </navPoint>
+    <navPoint id="num_126" playOrder="126">
+      <navLabel>
+        <text>CHƯƠNG CXXVI PHAO CỨU SINH</text>
+      </navLabel>
+      <content src="text/ch001_split129.xhtml"/>
+    </navPoint>
+    <navPoint id="num_127" playOrder="127">
+      <navLabel>
+        <text>CHƯƠNG CXXVII BOONG TÀU</text>
+      </navLabel>
+      <content src="text/ch001_split130.xhtml"/>
+    </navPoint>
+    <navPoint id="num_128" playOrder="128">
+      <navLabel>
+        <text>CHƯƠNG CXXVIII TÀU PEQUOD GẶP TÀU RACHEL</text>
+      </navLabel>
+      <content src="text/ch001_split131.xhtml"/>
+    </navPoint>
+    <navPoint id="num_129" playOrder="129">
+      <navLabel>
+        <text>CHƯƠNG CXXIX CABIN</text>
+      </navLabel>
+      <content src="text/ch001_split132.xhtml"/>
+    </navPoint>
+    <navPoint id="num_130" playOrder="130">
+      <navLabel>
+        <text>CHƯƠNG CXXX CÁI MŨ</text>
+      </navLabel>
+      <content src="text/ch001_split133.xhtml"/>
+    </navPoint>
+    <navPoint id="num_131" playOrder="131">
+      <navLabel>
+        <text>CHƯƠNG CXXXI TÀU PEQUOD GẶP TÀU VUI SƯỚNG</text>
+      </navLabel>
+      <content src="text/ch001_split134.xhtml"/>
+    </navPoint>
+    <navPoint id="num_132" playOrder="132">
+      <navLabel>
+        <text>CHƯƠNG CXXXII BẢN GIAO HƯỞNG</text>
+      </navLabel>
+      <content src="text/ch001_split135.xhtml"/>
+    </navPoint>
+    <navPoint id="num_133" playOrder="133">
+      <navLabel>
+        <text>CHƯƠNG CXXXIII CUỘC SĂN ĐUỔI - NGÀY ĐẦU</text>
+      </navLabel>
+      <content src="text/ch001_split136.xhtml"/>
+    </navPoint>
+    <navPoint id="num_134" playOrder="134">
+      <navLabel>
+        <text>CHƯƠNG CXXXIV CUỘC SĂN ĐUỔI - NGÀY THỨ HAI</text>
+      </navLabel>
+      <content src="text/ch001_split137.xhtml"/>
+    </navPoint>
+    <navPoint id="num_135" playOrder="135">
+      <navLabel>
+        <text>CHƯƠNG CXXXV CUỘC SĂN ĐUỔI - NGÀY THỨ BA</text>
+      </navLabel>
+      <content src="text/ch001_split138.xhtml"/>
+    </navPoint>
+    <navPoint id="num_136" playOrder="136">
+      <navLabel>
+        <text>ĐOẠN CHÓT</text>
+      </navLabel>
+      <content src="text/ch001_split139.xhtml"/>
+    </navPoint>
+    <navPoint id="num_137" playOrder="137">
+      <navLabel>
+        <text>NGỮ NGUYÊN HỌC</text>
+      </navLabel>
+      <content src="text/ch001_split140.xhtml"/>
+    </navPoint>
+    <navPoint id="num_138" playOrder="138">
+      <navLabel>
+        <text>NGỮ NGUYÊN HỌC</text>
+      </navLabel>
+      <content src="text/ch001_split141.xhtml"/>
+    </navPoint>
+    <navPoint id="num_139" playOrder="139">
+      <navLabel>
+        <text>ĐOẠN TRÍCH</text>
+      </navLabel>
+      <content src="text/ch001_split142.xhtml"/>
+    </navPoint>
+    <navPoint id="num_140" playOrder="140">
+      <navLabel>
+        <text>CHÚ THÍCH</text>
+      </navLabel>
+      <content src="text/ch001_split143.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

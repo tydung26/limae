@@ -1,0 +1,6 @@
+{
+  "[xhtml]": {
+    "editor.formatOnSave": false
+  },
+  "html.format.enable": false
+}

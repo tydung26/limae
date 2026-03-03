@@ -262,7 +262,7 @@
 2. `tằm thường` → `tầm thường` (tằm→tầm)
 3. `so sánh dược bằng` → `được` (dược→được)
 4. `tù trương già` → `tù trưởng` (trương→trưởng)
-5. `hương ra mùi tàu` → `hướng` (hương→hướng)
+5. `hương ra mùi tàu` → `hướng` (hương→hướng) (mising it should be `hướng ra mũi tàu`)
 6. `Thuyền trướng Ahab` → `trưởng` (trướng→trưởng)
 7. `Chăng phải mi` → `Chẳng` (Chăng→Chẳng)
 8. `mồn đồ Quaker` → `môn đồ` (mồn→môn)
@@ -490,7 +490,7 @@
 
 1. `HƯƠNG XLIX` → `CHƯƠNG XLIX` (HƯƠNG→CHƯƠNG, in title tag)
 2. `nghề sán cá voi` → `nghề săn` (sán→săn)
-3. `tột buộc` → `tột bực` (buộc→bực)
+3. `tột buộc` → `tột bực` (buộc→bực) (wrong it should be `tôi buộc`)
 
 ### Chapter L (split53) — 4 fixes
 
@@ -754,7 +754,7 @@
 2. `xuống thuyên cùng` → `xuống thuyền cùng` (thuyên→thuyền)
 3. `quan sat chú` → `quan sát chú` (sat→sát)
 4. `một cải nụ đinh hương` → `một cái nụ` (cải→cái)
-5. `bểdặng` → `bể dặng` (missing space)
+5. `bểdặng` → `bể dặng` (missing space) (wrong `bể lặng`)
 
 ### Chapter XCIV (split97) — 5 fixes
 
